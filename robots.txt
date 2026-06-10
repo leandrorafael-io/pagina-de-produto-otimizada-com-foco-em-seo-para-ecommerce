@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://leandrorafael-io.github.io/pagina-de-produto-otimizada-com-foco-em-seo-para-ecommerce/sitemap.xml
